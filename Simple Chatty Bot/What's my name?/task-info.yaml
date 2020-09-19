@@ -57,5 +57,9 @@ files:
     print('What a great name you have, {your_name}!')
   learner_created: false
 feedback_link: https://hyperskill.org/projects/97/stages/535/implement
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/97/stages/535/implement">JetBrains
+    Academy</a>
+  time: Fri, 18 Sep 2020 04:55:44 UTC
+record: 2
